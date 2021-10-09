@@ -11,12 +11,16 @@ public class HelloWorld {
 		{
 		case 1:
 			System.out.println("Siple Java");
+			break;
 		case 2:
 			System.out.println("Funny Java");
+			break;
 		case 3:
 			System.out.println("Fantastic Java");
+			break;
 		default:
 			System.out.println("Do You like Coffee ?");
+			break;
 		}
 		
 		System.out.println("Do You like Orange");
