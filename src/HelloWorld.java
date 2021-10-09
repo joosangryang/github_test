@@ -18,6 +18,9 @@ public class HelloWorld {
 		case 3:
 			System.out.println("Fantastic Java");
 			break;
+		case 4:
+			System.out.println("추가 기능 완료");
+			break;	
 		default:
 			System.out.println("Do You like Coffee ?");
 			break;
